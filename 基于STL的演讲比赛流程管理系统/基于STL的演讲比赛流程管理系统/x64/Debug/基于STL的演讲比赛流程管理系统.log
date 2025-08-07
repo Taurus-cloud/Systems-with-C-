@@ -1,0 +1,10 @@
+﻿  speechManager.cpp
+D:\game\Rxd项目\基于STL的演讲比赛流程管理系统\speechManager.cpp(281,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+D:\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         with
+D:\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         [
+D:\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:             _Ty=float
+D:\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         ]
+  演讲比赛流程管理系统.cpp
+  正在生成代码...
+  基于STL的演讲比赛流程管理系统.vcxproj -> D:\game\Rxd项目\基于STL的演讲比赛流程管理系统\x64\Debug\基于STL的演讲比赛流程管理系统.exe
